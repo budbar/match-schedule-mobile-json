@@ -6,8 +6,8 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png" },
-        "guest_team": { "name": "GKS Katowice", "badge": "https://api.sportdata.com/badges/gks-katowice" }
+        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
+        "guest_team": { "name": "GKS Katowice", "badge": "" }
       },
       "date": {
         "date": "2025-11-25",
@@ -50,8 +50,8 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Legia Warszawa", "badge": "https://api.sportdata.com/badges/legia-warszawa" },
-        "guest_team": { "name": "Lech Poznań", "badge": "https://api.sportdata.com/badges/lech-poznan" }
+        "home_team": { "name": "Legia Warszawa", "badge": "" },
+        "guest_team": { "name": "Lech Poznań", "badge": "" }
       },
       "date": {
         "date": "2025-11-26",
