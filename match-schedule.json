@@ -1,0 +1,92 @@
+{
+  "matches": [
+    {
+      "id": {
+        "value": 1,
+        "meta": { "type": "number", "required": true }
+      },
+      "teams": {
+        "home_team": { "name": "Jagiellonia Białystok", "badge": "https://api.sportdata.com/badges/jagiellonia-bialystok" },
+        "guest_team": { "name": "GKS Katowice", "badge": "https://api.sportdata.com/badges/gks-katowice" }
+      },
+      "date": {
+        "date": "2025-11-25",
+        "time": "12:15"
+      },
+      "stadium": {
+        "name": "Chorten Arena",
+        "location": { "city": "Białystok", "country": "Polska" },
+        "capacity": "22432"
+      },
+      "referee": {
+        "first_name": "Adam",
+        "last_name": "Kowalski"
+      },
+      "transmission": {
+        "tv": "Canal +360",
+        "online": "strims.top"
+      },
+      "statistics": {
+        "home_team": "z/r/r/z/p",
+        "guest_team": "p/p/p/r/z"
+      },
+      "tickets": {
+        "prices": { "normal": 60, "reduced": 30 },
+        "status": { "sold": 12000, "free": 3000 }
+      },
+      "security": {
+        "security": 30,
+        "police": 10
+      },
+      "bookmakers": {
+        "win": 1.33,
+        "draw": 2.33,
+        "lose": 3.45
+      }
+    },
+    {
+      "id": {
+        "value": 2,
+        "meta": { "type": "number", "required": true }
+      },
+      "teams": {
+        "home_team": { "name": "Legia Warszawa", "badge": "https://api.sportdata.com/badges/legia-warszawa" },
+        "guest_team": { "name": "Lech Poznań", "badge": "https://api.sportdata.com/badges/lech-poznan" }
+      },
+      "date": {
+        "date": "2025-11-26",
+        "time": "18:00"
+      },
+      "stadium": {
+        "name": "Stadion Wojska Polskiego",
+        "location": { "city": "Warszawa", "country": "Polska" },
+        "capacity": "31103"
+      },
+      "referee": {
+        "first_name": "Piotr",
+        "last_name": "Nowak"
+      },
+      "transmission": {
+        "tv": "Canal+ Sport",
+        "online": "canalplus.com"
+      },
+      "statistics": {
+        "home_team": "z/z/z/r/z",
+        "guest_team": "z/r/z/p/z"
+      },
+      "tickets": {
+        "prices": { "normal": 80, "reduced": 40 },
+        "status": { "sold": 28000, "free": 500 }
+      },
+      "security": {
+        "security": 50,
+        "police": 20
+      },
+      "bookmakers": {
+        "win": 2.10,
+        "draw": 3.20,
+        "lose": 3.40
+      }
+    }
+  ]
+}
