@@ -6,7 +6,7 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
+        "home_team": { "name": "Jagiellonia Białystok", "badge": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png" },
         "guest_team": { "name": "GKS Katowice", "badge": "" }
       },
       "date": {
