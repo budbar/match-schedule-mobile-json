@@ -6,17 +6,17 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "KGHM Zagłębie Lubin", "badge": "https://r2.thesportsdb.com/images/media/team/badge/7n07qf1702990302.png" },
+        "guest_team": { "name": "GKS Katowice", "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsva1p1626103599.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-01-30",
+        "time": "18:00"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "KGHM Zagłębie Arena",
+        "location": { "city": "Lubin", "country": "Polska" },
+        "capacity": "15000"
       },
       "referee": {
         "first_name": "Adam",
@@ -27,12 +27,12 @@
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "z/z/r/p/z",
+        "guest_team": "p/z/p/z/z"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 6000, "free": 9000 }
       },
       "security": {
         "security": 30,
@@ -50,17 +50,17 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Legia Warszawa", "badge": "" },
-        "guest_team": { "name": "Lech Poznań", "badge": "" }
+        "home_team": { "name": "Radomiak Radom", "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpi1dx1698554708.png" },
+        "guest_team": { "name": "Arka Gdynia", "badge": "https://r2.thesportsdb.com/images/media/team/badge/i6ls7n1698553767.png" }
       },
       "date": {
-        "date": "2025-11-26",
-        "time": "18:00"
+        "date": "2026-01-30",
+        "time": "20:30"
       },
       "stadium": {
-        "name": "Stadion Wojska Polskiego",
-        "location": { "city": "Warszawa", "country": "Polska" },
-        "capacity": "31103"
+        "name": "Stadion Radomskiego Centrum Sportu",
+        "location": { "city": "Radom", "country": "Polska" },
+        "capacity": "17000"
       },
       "referee": {
         "first_name": "Piotr",
@@ -71,12 +71,12 @@
         "online": "canalplus.com"
       },
       "statistics": {
-        "home_team": "z/z/z/r/z",
-        "guest_team": "z/r/z/p/z"
+        "home_team": "r/z/p/z/z",
+        "guest_team": "z/p/p/z/p"
       },
       "tickets": {
-        "prices": { "normal": 80, "reduced": 40 },
-        "status": { "sold": 28000, "free": 500 }
+        "prices": { "normal": 60, "reduced": 30 },
+        "status": { "sold": 10000, "free": 7000 }
       },
       "security": {
         "security": 50,
@@ -94,42 +94,42 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Górnik Zabrze", "badge": "https://r2.thesportsdb.com/images/media/team/badge/fk1fam1767928408.png" },
+        "guest_team": { "name": "Piast Gliwice", "badge": "https://r2.thesportsdb.com/images/media/team/badge/qywuux1448219182.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-01-31",
+        "time": "14:45"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Arena Zabrze",
+        "location": { "city": "Zabrze", "country": "Polska" },
+        "capacity": "20000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Piotr",
+        "last_name": "Wiśniewski"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "p/p/r/p/z",
+        "guest_team": "z/z/p/z/z"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 12000, "free": 8000 }
       },
       "security": {
         "security": 30,
         "police": 10
       },
       "bookmakers": {
-        "win": 1.33,
-        "draw": 2.33,
-        "lose": 3.45
+        "win": 2.36,
+        "draw": 4.33,
+        "lose": 1.15
       }
     },
     {
@@ -138,42 +138,42 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Widzew Łódź", "badge": "https://r2.thesportsdb.com/images/media/team/badge/3rkfjd1692596430.png" },
+        "guest_team": { "name": "Jagiellonia Białystok", "badge": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-01-31",
+        "time": "17:30"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Stadion Miejski Widzewa Łódź",
+        "location": { "city": "Łódź", "country": "Polska" },
+        "capacity": "15000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Grzegorz",
+        "last_name": "Literowski"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "p/z/p/p/r",
+        "guest_team": "r/p/r/z/p"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 15000, "free": 0 }
       },
       "security": {
         "security": 30,
         "police": 10
       },
       "bookmakers": {
-        "win": 1.33,
-        "draw": 2.33,
-        "lose": 3.45
+        "win": 4.21,
+        "draw": 4.33,
+        "lose": 1.45
       }
     },
     {
@@ -182,33 +182,33 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Lech Poznań", "badge": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png" },
+        "guest_team": { "name": "Lechia Gdańsk", "badge": "https://r2.thesportsdb.com/images/media/team/badge/92qkyn1601412225.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-01-31",
+        "time": "20:15"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Enea Stadion",
+        "location": { "city": "Poznań", "country": "Polska" },
+        "capacity": "30000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Bartłomiej",
+        "last_name": "Myszkowski"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "r/r/z/p/r",
+        "guest_team": "z/z/r/z/p"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 25000, "free": 5000 }
       },
       "security": {
         "security": 30,
@@ -226,29 +226,29 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Motor Lublin", "badge": "https://r2.thesportsdb.com/images/media/team/badge/7qevx11720351099.png" },
+        "guest_team": { "name": "Pogoń Szczecin", "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png" }
       },
       "date": {
-        "date": "2025-11-25",
+        "date": "2026-02-01",
         "time": "12:15"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Motor Lublin Arena",
+        "location": { "city": "Lublin", "country": "Polska" },
+        "capacity": "12000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Kinga",
+        "last_name": "Żabkowska"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "r/p/r/z/r",
+        "guest_team": "r/p/z/p/p"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
@@ -259,9 +259,9 @@
         "police": 10
       },
       "bookmakers": {
-        "win": 1.33,
+        "win": 4.41,
         "draw": 2.33,
-        "lose": 3.45
+        "lose": 1.25
       }
     },
     {
@@ -270,33 +270,33 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Wisła Płock", "badge": "https://r2.thesportsdb.com/images/media/team/badge/o1n52v1698554231.png" },
+        "guest_team": { "name": "Raków Częstochowa", "badge": "https://r2.thesportsdb.com/images/media/team/badge/vy8paa1579458598.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-02-01",
+        "time": "14:45"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Orlen Stadion",
+        "location": { "city": "Płock", "country": "Polska" },
+        "capacity": "14500"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Aneta",
+        "last_name": "Namowska"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "r/r/r/r/r",
+        "guest_team": "p/z/z/p/z"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 14000, "free": 500 }
       },
       "security": {
         "security": 30,
@@ -314,42 +314,42 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Legia Warszawa", "badge": "https://r2.thesportsdb.com/images/media/team/badge/c969ez1632775656.png" },
+        "guest_team": { "name": "Korona Kielce", "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytpvtv1448218305.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-02-01",
+        "time": "17:30"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Stadion Miejski Legii Warszawa",
+        "location": { "city": "Warszawa", "country": "Polska" },
+        "capacity": "25000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Szymon",
+        "last_name": "Marciniak"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "p/p/r/r/p",
+        "guest_team": "r/p/z/p/r"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 12500, "free": 12500 }
       },
       "security": {
         "security": 30,
         "police": 10
       },
       "bookmakers": {
-        "win": 1.33,
-        "draw": 2.33,
-        "lose": 3.45
+        "win": 6.33,
+        "draw": 3.11,
+        "lose": 2.45
       }
     },
     {
@@ -358,33 +358,33 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Bruk-Bet Termalica Nieciecza", "badge": "https://r2.thesportsdb.com/images/media/team/badge/m1tod31628431456.png" },
+        "guest_team": { "name": "Cracovia", "badge": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-02-02",
+        "time": "19:00"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Stadion Sportowy Bruk-Bet Termalica",
+        "location": { "city": "Nieciecza", "country": "Polska" },
+        "capacity": "5000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Łukasz",
+        "last_name": "Szczepkowski"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "z/p/z/z/p",
+        "guest_team": "r/r/z/p/p"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
-        "status": { "sold": 12000, "free": 3000 }
+        "status": { "sold": 1000, "free": 4000 }
       },
       "security": {
         "security": 30,
@@ -402,29 +402,29 @@
         "meta": { "type": "number", "required": true }
       },
       "teams": {
-        "home_team": { "name": "Jagiellonia Białystok", "badge": "" },
-        "guest_team": { "name": "GKS Katowice", "badge": "" }
+        "home_team": { "name": "Wisła Kraków", "badge": "https://r2.thesportsdb.com/images/media/team/badge/hctds11709146583.png" },
+        "guest_team": { "name": "GKS Tychy", "badge": "https://r2.thesportsdb.com/images/media/team/badge/i6t59w1698554102.png" }
       },
       "date": {
-        "date": "2025-11-25",
-        "time": "12:15"
+        "date": "2026-02-06",
+        "time": "20:30"
       },
       "stadium": {
-        "name": "Chorten Arena",
-        "location": { "city": "Białystok", "country": "Polska" },
-        "capacity": "22432"
+        "name": "Stadion Miejski im. Henryka Reymonta",
+        "location": { "city": "Kraków", "country": "Polska" },
+        "capacity": "33000"
       },
       "referee": {
-        "first_name": "Adam",
-        "last_name": "Kowalski"
+        "first_name": "Tomasz",
+        "last_name": "Miś"
       },
       "transmission": {
         "tv": "Canal +360",
         "online": "strims.top"
       },
       "statistics": {
-        "home_team": "z/r/r/z/p",
-        "guest_team": "p/p/p/r/z"
+        "home_team": "r/p/r/r/p",
+        "guest_team": "r/z/z/r/p"
       },
       "tickets": {
         "prices": { "normal": 60, "reduced": 30 },
